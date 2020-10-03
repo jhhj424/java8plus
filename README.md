@@ -4,8 +4,25 @@
 ## 자바8(Java8)
 https://www.jetbrains.com/lp/devecosystem-2019/java/
 
-- 함수형 인터페이스와 람다 그리고 메소드 레퍼런스에 대해 학습합니다.
+ - 함수형 인터페이스와 람다, 메서드 레퍼런스
+
+ - 인터페이스의 변화
+
+ - Stream
+
+ - Optional
+
+ - Date와 Time
+
+ - CompletableFuture
+
+ - Annotation(어노테이션) dml qusghk
+
+ - 배열 병렬 정렬
+
+ - JVM의 새로운 영역, Metaspace
  
-- 인터페이스의 기본 메소드와 스태틱 메소드에 대해 학습합니다.
  
-- Stream과 Optional에 대해 학습합니다.
+ ## 학습후기
+ 
+ https://jhhj424.tistory.com/42
