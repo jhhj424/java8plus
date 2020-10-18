@@ -16,7 +16,7 @@ https://www.jetbrains.com/lp/devecosystem-2019/java/
 
  - CompletableFuture
 
- - Annotation(어노테이션) dml qusghk
+ - Annotation(어노테이션) 의 변화
 
  - 배열 병렬 정렬
 
